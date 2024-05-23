@@ -10,7 +10,7 @@ function _defineProperty(obj, key, value) {
 // * https://codepen.io/jenning/pen/JZzeJW
 
 var data = {
-  headerText: "聊天中 ✨",
+  headerText: "汤圆树洞 ✨",
   p2Text: "汤圆骑士24小时待机",
   mode: null,
   userMessages: [],
